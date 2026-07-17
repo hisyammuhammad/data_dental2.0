@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+      Caries     1.0000    1.0000    1.0000       120
+  Gingivitas     1.0000    1.0000    1.0000        88
+
+    accuracy                         1.0000       208
+   macro avg     1.0000    1.0000    1.0000       208
+weighted avg     1.0000    1.0000    1.0000       208

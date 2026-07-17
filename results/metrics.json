@@ -1,0 +1,9 @@
+{
+    "test_accuracy": 1.0,
+    "test_auc": 1.0,
+    "test_loss": 1.9136963658183959e-07,
+    "best_threshold": 0.1,
+    "sensitivity": 1.0,
+    "specificity": 1.0,
+    "fnr": 0.0
+}
